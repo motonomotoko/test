@@ -1,15 +1,13 @@
 
 ---
-title: "Post: 日本語テスト2"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "日本語テスト2"
+date: 2019-04-18T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Jekyll
+  - update
 ---
-
 
 
 日本語のテストです。
